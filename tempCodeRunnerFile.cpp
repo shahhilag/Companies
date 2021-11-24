@@ -1,1 +1,4 @@
-cout<<current<<endl;
+ if(counter==0)
+    {
+        cout<<"-1"<<endl;
+    }
