@@ -25,7 +25,7 @@ void insert(int data,int pos)
           head=head->next;
           temp->next=NULL;
           delete temp;
-        return;
+          return;
     }
     for(int i=1;i<=pos-1;i++)
     {
