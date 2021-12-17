@@ -1,4 +1,5 @@
- if(counter==0)
-    {
-        cout<<"-1"<<endl;
-    }
+ // while(final!=NULL)
+     // {
+     //      cout<<final->data<<" ";
+     //      final=final->next;
+     // }
