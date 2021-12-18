@@ -31,8 +31,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
  ## A
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Adobe](https://www.adobe.com/careers.html)  
-1. [Acko](https://acko.hirexp.com/)
-1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
+1. [Acko](https://acko.hirexp.com/)   
 1. [Airbnb](https://careers.airbnb.com/)  
 1. [Airtel x labs](https://careers.airtel.com/)  
 1. [Ajio](https://www.ajio.com/ajio-careers)    
@@ -55,21 +54,16 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
  
  ## B  
 1.  [Barclays](https://home.barclays/careers/)
-1.  [Bain & Co](https://www.bain.com/careers/)
 1.  [Bazaarvoice](https://www.bazaarvoice.com/company/careers/)
-1.  [Benchmark](https://benchmarkit.zohorecruit.com/jobs/Careers) 
 1.  [BharatPe](https://bharatpe.com/career)  
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
 1.  [BlueJeans](https://www.bluejeans.com/careers)
-1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
-1.  [Bosch](https://www.bosch.in/careers/)
 1.  [Bottemline Technologies](https://www.bottomline.com/apac/about/careers) 
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
-1.  [Byju's](https://byjus.com/careers/all-openings/job-category/tech/)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -91,7 +85,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
 1.   [Cred](https://careers.cred.club/)  
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
-1.   [Crowdstrike](https://www.crowdstrike.com/careers/)
 1.   [cure.fit](https://www.cult.fit/careers)
 1.   [Cvent](https://www.cvent.com/en/careers)  
 
@@ -113,14 +106,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
 1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
 
-## E  
-1.   [Enfusion](https://enfusion.com/careers/)
-1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
-1.   [Eurofins](https://careers.eurofins.com/in/)
-1.   [EXL Healthcare](https://exlservice.com/careers)  
+## E   
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
-1.   [EY](https://careers.ey.com/)  
-1.   [EyeROV](https://www.eyerov.com/careers/)
 
 ## F  
 1.   [facebook](https://www.facebook.com/careers/jobs/)  
@@ -138,7 +125,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [GE](https://www.ge.com/in/careers/opportunities)
 1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
-1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
 1.   [GoDigit](https://www.godigit.com/)
 1.   [Gojek](https://career.gojek.com/)  
@@ -191,7 +177,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## L  
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [Lenskart](https://hiring.lenskart.com/)
-1.   [Licious](https://www.careers.in/)  
 1.   [LinkedIn](https://careers.linkedin.com/) 
 1.   [Logicmonitor](https://www.logicmonitor.com/careers)
 
@@ -321,43 +306,3 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
  ## 0-9  
 1.   [1 mg](https://www.1mg.com/jobs)  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-  
-
-## Guidelines
-  
-
-Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/GUIDELINES.MD)
-
-  
-  
-
-
-## Contributors
-
-<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kaustubh-Natuskar/companies-to-apply" />
-</a>  
-
-## Feedback
-
-If you have any feedback or suggestions please reach out to maintainers.  
-* [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
-* [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
-
