@@ -12,7 +12,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      224           |
+ |      222           |
 
 </div>
 
@@ -34,8 +34,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Amadeus labs](https://jobs.amadeus.com/)    
 1. [Amazon](https://www.amazon.jobs/en/)    
 1. [Amdocs](https://asset.amdocs.com/careers/)
-1. [American express](https://www.americanexpress.com/en-us/careers/)  
-1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
+1. [American express](https://www.americanexpress.com/en-us/careers/)   
 1. [Apple](https://www.apple.com/careers/us/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
@@ -273,7 +272,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Urban company](https://careers.urbancompany.com/)     
        
 ## V  
-1.   [Viasat](https://careers.viasat.com/)  
 1.   [Visa](https://www.visa.co.in/careers.html)
 1.   [Vmware](https://careers.vmware.com/main/)  
 
