@@ -1,11 +1,5 @@
 # Good Product Based Companies & Startups 
 
-This Repository contains the list of companies(more than FAANG) which you can join!
-Please refer to the [Guidelines](#Guidelines) before contributing. 
-
-
-
-
 ## Find Companies Alphabetically
 <br>
 
