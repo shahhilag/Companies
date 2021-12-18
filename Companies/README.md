@@ -12,7 +12,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      225           |
+ |      224           |
 
 </div>
 
@@ -107,7 +107,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [facebook](https://www.facebook.com/careers/jobs/)  
 1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
-1.   [FireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [fiserv](https://www.careers.fiserv.com/)
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [Frappe Technologies](https://frappe.io/careers)
