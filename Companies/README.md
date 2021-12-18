@@ -18,7 +18,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      318            |
+ |      225           |
 
 </div>
 
