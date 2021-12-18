@@ -12,7 +12,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      222           |
+ |      214           |
 
 </div>
 
@@ -56,7 +56,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
 1.  [Bottemline Technologies](https://www.bottomline.com/apac/about/careers) 
 1.  [Browser stack](https://www.browserstack.com/careers)  
-1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -69,9 +68,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Cisco](https://jobs.cisco.com/)  
 1.   [Citrix](https://jobs.citrix.com/)  
 1.   [Cleartrip](https://careers.cleartrip.com/#!/) 
-1.   [Codenation(Trilogy) innovation labs](http://codenation.co.in/hiringprocess.html)  
 1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
-1.   [Cognizant](https://careers.cognizant.com/in/en)
 1.   [CoinDCX](https://careers.coindcx.com/)  
 1.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 1.   [Commvault](https://careers.commvault.com/)
@@ -79,7 +76,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Cred](https://careers.cred.club/)  
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
 1.   [cure.fit](https://www.cult.fit/careers)
-1.   [Cvent](https://www.cvent.com/en/careers)  
 
 ## D  
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
@@ -91,7 +87,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
-1.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
 1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers)  
@@ -103,15 +98,15 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 
 ## F  
-1.   [facebook](https://www.facebook.com/careers/jobs/)  
+1.   [Facebook](https://www.facebook.com/careers/jobs/)  
 1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
-1.   [fiserv](https://www.careers.fiserv.com/)
+1.   [Fiserv](https://www.careers.fiserv.com/)
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [Frappe Technologies](https://frappe.io/careers)
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
-1.   [fyle](https://www.fylehq.com/company/team/join)
+1.   [Fyle](https://www.fylehq.com/company/team/join)
 
 ## G  
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
@@ -123,8 +118,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
 1.   [Google](https://careers.google.com/)
 1.   [Global Logic](https://www.globallogic.com/in/careers/)
-1.   [Grab](https://grab.careers/)
-1.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)   
+1.   [Grab](https://grab.careers/)   
 1.   [Groupon](https://www.grouponcareers.com/) 
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [Groww](https://groww.skillate.com/)  
@@ -135,7 +129,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Hashedin](https://hashedin.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)
-1.   [HBO](https://warnermediacareers.com/hbo-jobs)  
 1.   [Hotstar](https://tech.hotstar.com/)  
 1.   [HP](https://jobs.hp.com/)  
 
@@ -163,8 +156,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## K
 1.   [Keyvalue](https://keyvalue.systems/)
 1.   [Khatabook](https://khatabook.com/hiring)
-1.   [khoros](https://khoros.com/about/careers)
-1.   [Koch](https://jobs.kochcareers.com/)
+1.   [Khoros](https://khoros.com/about/careers)
 
 ## L  
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
@@ -191,7 +183,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [NASDAQ](https://www.nasdaq.com/about/careers)  
 1.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
 1.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
-1.   [navi](https://www.navifinserv.com/life-at-chaitanya)  
+1.   [Navi](https://www.navifinserv.com/life-at-chaitanya)  
 1.   [NCR Corporation](https://www.ncr.com/careers)  
 1.   [Netmeds](https://netmeds.darwinbox.in/ms/candidate/careers)
 1.   [Nike](https://jobs.nike.com/)
@@ -216,11 +208,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [PeopleStrong](https://www.peoplestrong.com/careers/)
 1.   [Persistent systems](https://www.persistent.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
-1.   [Phillips](https://www.careers.philips.com/professional/in/en)
+1.   [Philips](https://www.careers.philips.com/professional/in/en)
 1.   [Phonepe](https://www.phonepe.com/careers/)  
-1.   [postman](https://www.postman.com/company/careers/)  
+1.   [Postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
-1.   [priceline](https://careers.priceline.com/search)  
+1.   [Priceline](https://careers.priceline.com/search)  
 1.   [Publicis Sapient](https://careers.publicissapient.com/)
 
 ## Q  
@@ -237,11 +229,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Salesforce](https://www.salesforce.com/)  
 1.   [Samsung](https://www.samsung.com/in/about-us/careers/)  
 1.   [SAP](https://jobs.sap.com/)  
-1.   [SendinBlue](https://jobs.sendinblue.com/en)
 1.   [ServiceNow](https://www.servicenow.com/careers.html)  
-1.   [Shaadi.com](https://www.naukri.com/)  
 1.   [ShareChat](https://we.sharechat.com/careers)
-1.   [Shell](https://www.shell.com/careers.html)  
 1.   [Shipsy](https://shipsy.io/career/)
 1.   [Shopee](https://careers.shopee.sg/)
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
@@ -256,16 +245,13 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Tekion corp](https://tekion.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
 1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
-1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs) 
-1.   [tower research capital](https://www.tower-research.com/positions)  
-1.   [Treebo Hotels](https://www.linkedin.com/company/treebohotels/jobs/)
 1.   [Twilio](https://www.twilio.com/company/jobs)  
 1.   [Twitter](https://careers.twitter.com/) 
 
 ## U  
 1.   [Uber](https://www.uber.com/us/en/careers/)  
 1.   [Udaan](https://careers.udaan.com/)    
-1.   [unacadamy](https://unacademy.com/careers)    
+1.   [Unacadamy](https://unacademy.com/careers)    
 1.   [Unicommerce](https://unicommerce.com/careers/)    
 1.   [Upgrad](https://www.upgrad.com/us/careers/)   
 1.   [Upstox](https://jobs.lever.co/upstox)      
@@ -279,18 +265,15 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Walmart](https://careers.walmart.com/technology)  
 1.   [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
 1.   [Whatfix](https://whatfix.com/careers/)
-
-## X  
-1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)  
       
 ## Y  
 1.   [Yahoo](https://research.yahoo.com/careers)
-1.   [yugabyte](https://www.yugabyte.com/careers/)
+1.   [Yugabyte](https://www.yugabyte.com/careers/)
 
 ## Z  
-1.   [zerodha](https://careers.zerodha.com/)  
+1.   [Zerodha](https://careers.zerodha.com/)  
 1.   [Zeta](https://careers.zeta.tech/work-with-us/)
-1.   [zoho](https://careers.zohocorp.com/jobs/Careers)   
+1.   [Zoho](https://careers.zohocorp.com/jobs/Careers)   
 1.   [Zomato](https://www.zomato.com/careers) 
 1.   [ZoomCar](https://www.zoomcar.com/careers) 
 1.   [ZS](https://jobs.zs.com/all/jobs)  
