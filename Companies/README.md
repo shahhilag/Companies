@@ -12,14 +12,9 @@
  
  |Total companies added|
  |:-------------------:|
- |      214           |
+ |      210           |
 
 </div>
-
- 
- <!---
-PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
--->
 
  
  ## A
@@ -30,7 +25,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Airtel x labs](https://careers.airtel.com/)  
 1. [Ajio](https://www.ajio.com/ajio-careers)    
 1. [Akamai](https://www.akamai.com/careers)   
-1. [Alstom](https://www.alstom.com/careers)
 1. [Amadeus labs](https://jobs.amadeus.com/)    
 1. [Amazon](https://www.amazon.jobs/en/)    
 1. [Amdocs](https://asset.amdocs.com/careers/)
@@ -59,7 +53,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
-1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
 1.   [CarDekho](https://careers.cardekho.com/)
 1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
@@ -88,7 +81,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Directi](https://careers.directi.com/)  
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
-1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
@@ -110,8 +102,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 ## G  
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
-1.   [GE](https://www.ge.com/in/careers/opportunities)
-1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
 1.   [Github](https://github.com/about/careers)
 1.   [GoDigit](https://www.godigit.com/)
 1.   [Gojek](https://career.gojek.com/)  
