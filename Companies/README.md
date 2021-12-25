@@ -1,6 +1,5 @@
 # Good Product Based Companies & Startups 
 
-## Find Companies Alphabetically
 <br>
 
 <div align="center">
@@ -12,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      210           |
+ |      208           |
 
 </div>
 
@@ -79,7 +78,6 @@
 1.   [Deutsche Bank](https://careers.db.com/)  
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
-1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
 1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
@@ -195,8 +193,7 @@
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
 1.   [PayU](https://payu.in/careers)
-1.   [PeopleStrong](https://www.peoplestrong.com/careers/)
-1.   [Persistent systems](https://www.persistent.com/careers/)  
+1.   [PeopleStrong](https://www.peoplestrong.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Philips](https://www.careers.philips.com/professional/in/en)
 1.   [Phonepe](https://www.phonepe.com/careers/)  
