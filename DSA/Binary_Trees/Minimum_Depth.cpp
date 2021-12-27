@@ -35,15 +35,34 @@ Node * buildTree()
     return n;
 }
 
+int minDepth1(Node *root) 
+{
+
+    if(root==NULL)
+    {
+        return 0;
+    }    
+    int h1=minDepth1(root->left);
+    
+}
+int minDepth2(Node *root) 
+{
+    if(root==NULL)
+    {
+        return 0;
+    }    
+    int h2=minDepth2(root->right);
+    
+}
 int minDepth(Node *root) 
 {
     if(root==NULL)
     {
         return 0;
     }    
-    int h1=minDepth(root->left);
-    int h2=minDepth(root->right);
-    return max(h1,h2)+1;
+    int h1=minDepth1(root->left);
+    int h2=minDepth2(root->right);
+    
 }
 
 int main()
