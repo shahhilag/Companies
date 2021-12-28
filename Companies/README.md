@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      203           |
+ |      200           |
 
 </div>
 
@@ -73,7 +73,6 @@
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
 1.   [DealShare](https://www.dealshare.in/careers#home)  
 1.   [Delhivery](https://www.delhivery.com/careers/)  
-1.   [Dell](https://jobs.dell.com/)  
 1.   [Deutsche Bank](https://careers.db.com/)  
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
@@ -114,7 +113,6 @@
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
 1.   [HackerRank](https://www.hackerrank.com/careers/)
 1.   [Hashedin](https://hashedin.com/careers/)
-1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)
 1.   [Hotstar](https://tech.hotstar.com/)  
 1.   [HP](https://jobs.hp.com/)  
@@ -131,8 +129,7 @@
 1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 1.   [Intuit](https://www.intuit.com/careers/)  
 
-## J  
-1.   [Jaguar](https://www.jaguarlandrovercareers.com/)  
+## J   
 1.   [Jio](https://careers.jio.com/)  
 1.   [JP Morgan](https://careers.jpmorgan.com/IN/en/home)  
 1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
