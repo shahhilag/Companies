@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      208           |
+ |      203           |
 
 </div>
 
@@ -33,7 +33,6 @@
 1. [Arcesium](https://www.arcesium.com/careers.html)   
 1. [Arista Networks](https://www.arista.com/en/careers)  
 1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
-1. [Athena Health](https://www.athenahealth.com/careers)  
 1. [Atlan](https://atlan.com/careers/)
 1. [Atlassian](https://www.atlassian.com/company/careers)  
 1. [Avaya](https://careers.avaya.com/)  
@@ -200,7 +199,6 @@
 1.   [Postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
 1.   [Priceline](https://careers.priceline.com/search)  
-1.   [Publicis Sapient](https://careers.publicissapient.com/)
 
 ## Q  
 1.   [Qualcomm](https://www.qualcomm.com/company/careers) 
@@ -237,10 +235,8 @@
 
 ## U  
 1.   [Uber](https://www.uber.com/us/en/careers/)  
-1.   [Udaan](https://careers.udaan.com/)    
-1.   [Unacadamy](https://unacademy.com/careers)    
+1.   [Udaan](https://careers.udaan.com/)       
 1.   [Unicommerce](https://unicommerce.com/careers/)    
-1.   [Upgrad](https://www.upgrad.com/us/careers/)   
 1.   [Upstox](https://jobs.lever.co/upstox)      
 1.   [Urban company](https://careers.urbancompany.com/)     
        
@@ -262,8 +258,7 @@
 1.   [Zeta](https://careers.zeta.tech/work-with-us/)
 1.   [Zoho](https://careers.zohocorp.com/jobs/Careers)   
 1.   [Zomato](https://www.zomato.com/careers) 
-1.   [ZoomCar](https://www.zoomcar.com/careers) 
-1.   [ZS](https://jobs.zs.com/all/jobs)  
+1.   [ZoomCar](https://www.zoomcar.com/careers)  
 
  ## 0-9  
 1.   [1 mg](https://www.1mg.com/jobs)  
