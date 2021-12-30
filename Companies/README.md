@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      192          |
+ |      193          |
 
 </div>
 
@@ -220,7 +220,8 @@
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
 1.   [Sprinklr](https://www.sprinklr.com/careers/)
 1.   [Stripe](https://stripe.com/in/jobs)  
-1.   [Swiggy](https://careers.swiggy.com/)  
+1.   [Swiggy](https://careers.swiggy.com/) 
+1.   [Scaler](https://www.scaler.com/careers/) 
 
 ## T  
 1.   [Target](https://corporate.target.com/careers)  
