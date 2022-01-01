@@ -13,6 +13,7 @@ struct Node
     Node * next;
 };
 Node * head=NULL;
+
 void push_back(int data)
 {
     Node * temp=new Node();
@@ -68,6 +69,7 @@ void insert(int data,int pos)
 
 void print()
 {
+    
     while(head!=NULL)
     {
         cout<<head->data<<" ";
@@ -122,7 +124,7 @@ int main()
          } 
         //  insert(5,1);
         //  insert(8,2);
-         pop_front();
+        //  pop_front();
          print();
          cout<<endl;
      }

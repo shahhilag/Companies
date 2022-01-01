@@ -21,7 +21,6 @@ int fun(Node *root, int &maxi)
     if (root==NULL) return 0;
     int left = max(0, fun(root->left, maxi));
     int right = max(0, fun(root->right, maxi));
-
     maxi = max(maxi,left+right+root->data);
     return max(left,right)+root->data;
 }
