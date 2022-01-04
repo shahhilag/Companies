@@ -29,7 +29,6 @@ Node * swapK(Node * head,int n,int K)
        fprev=first;
        first=first->next;
    } 
-   cout<<fprev->data<<" "<<first->data<<endl;
    for(int i=0;i<n-K;i++){
        lprev=second;
        second=second->next;
