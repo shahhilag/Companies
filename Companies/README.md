@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      193          |
+ |      194          |
 
 </div>
 
@@ -229,7 +229,8 @@
 1.   [Teradata](https://careers.teradata.com/)
 1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
 1.   [Twilio](https://www.twilio.com/company/jobs)  
-1.   [Twitter](https://careers.twitter.com/) 
+1.   [Twitter](https://careers.twitter.com/)
+1.   [Toothsi](https://www.linkedin.com/company/toothsi/jobs/)
 
 ## U  
 1.   [Uber](https://www.uber.com/us/en/careers/)  
