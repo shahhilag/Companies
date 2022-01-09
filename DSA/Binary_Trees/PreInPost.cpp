@@ -76,9 +76,9 @@ vector<int> prepostin(Node *root)
             post.push_back(it.first->data);
         }
     }
-    //return pre;
-     return post;
-    // return in;
+     // return pre;
+      return post;
+     // return in;
 }
 
 int main()
