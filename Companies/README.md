@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      195          |
+ |      190          |
 
 </div>
 
@@ -20,7 +20,6 @@
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Adobe](https://www.adobe.com/careers.html)  
 1. [Acko](https://acko.hirexp.com/)   
-1. [Airbnb](https://careers.airbnb.com/)  
 1. [Airtel x labs](https://careers.airtel.com/)  
 1. [Ajio](https://www.ajio.com/ajio-careers)    
 1. [Akamai](https://www.akamai.com/careers)   
@@ -28,11 +27,9 @@
 1. [Amazon](https://www.amazon.jobs/en/)    
 1. [Amdocs](https://asset.amdocs.com/careers/)
 1. [American express](https://www.americanexpress.com/en-us/careers/)   
-1. [Apple](https://www.apple.com/careers/us/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
 1. [Arista Networks](https://www.arista.com/en/careers)  
-1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
 1. [Atlan](https://atlan.com/careers/)
 1. [Atlassian](https://www.atlassian.com/company/careers)  
 1. [Avaya](https://careers.avaya.com/)  
@@ -70,7 +67,6 @@
 
 ## D  
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
-1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
 1.   [DealShare](https://www.dealshare.in/careers#home)  
 1.   [Delhivery](https://www.delhivery.com/careers/)  
 1.   [Deutsche Bank](https://careers.db.com/)  
@@ -99,6 +95,7 @@
 ## G  
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [Github](https://github.com/about/careers)
+1.   [Gupshup]
 1.   [GoDigit](https://www.godigit.com/)
 1.   [Gojek](https://career.gojek.com/)  
 1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
@@ -142,8 +139,7 @@
 1.   [Khatabook](https://khatabook.com/hiring)
 1.   [Khoros](https://khoros.com/about/careers)
 
-## L  
-1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
+## L   
 1.   [Lenskart](https://hiring.lenskart.com/)
 1.   [LinkedIn](https://careers.linkedin.com/) 
 1.   [Logicmonitor](https://www.logicmonitor.com/careers)
@@ -218,7 +214,6 @@
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Siemens Healthineers](https://www.siemens-healthineers.com/en-in/careers) 
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
-1.   [Sprinklr](https://www.sprinklr.com/careers/)
 1.   [Stripe](https://stripe.com/in/jobs)  
 1.   [Swiggy](https://careers.swiggy.com/) 
 1.   [Scaler](https://www.scaler.com/careers/) 
@@ -229,9 +224,7 @@
 1.   [Teradata](https://careers.teradata.com/)
 1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
 1.   [Twilio](https://www.twilio.com/company/jobs)  
-1.   [Twitter](https://careers.twitter.com/)
 1.   [Toothsi](https://www.linkedin.com/company/toothsi/jobs/)
-1.   [Tracelink](https://www.linkedin.com/company/tracelink/jobs/)
 
 ## U  
 1.   [Uber](https://www.uber.com/us/en/careers/)  
@@ -250,7 +243,6 @@
 1.   [Whatfix](https://whatfix.com/careers/)
       
 ## Y  
-1.   [Yahoo](https://research.yahoo.com/careers)
 1.   [Yugabyte](https://www.yugabyte.com/careers/)
 
 ## Z  
