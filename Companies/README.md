@@ -11,19 +11,17 @@
  
  |Total companies added|
  |:-------------------:|
- |      190          |
+ |      183          |
 
 </div>
 
  
- ## A
-1. [Accolite software](https://www.accolite.com/careers)  
+ ## A  
 1. [Adobe](https://www.adobe.com/careers.html)  
 1. [Acko](https://acko.hirexp.com/)   
 1. [Airtel x labs](https://careers.airtel.com/)  
 1. [Ajio](https://www.ajio.com/ajio-careers)    
-1. [Akamai](https://www.akamai.com/careers)   
-1. [Amadeus labs](https://jobs.amadeus.com/)    
+1. [Akamai](https://www.akamai.com/careers)       
 1. [Amazon](https://www.amazon.jobs/en/)    
 1. [American express](https://www.americanexpress.com/en-us/careers/)   
 1. [AppInventiv](https://appinventiv.com/career/)   
