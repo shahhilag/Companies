@@ -25,7 +25,6 @@
 1. [Akamai](https://www.akamai.com/careers)   
 1. [Amadeus labs](https://jobs.amadeus.com/)    
 1. [Amazon](https://www.amazon.jobs/en/)    
-1. [Amdocs](https://asset.amdocs.com/careers/)
 1. [American express](https://www.americanexpress.com/en-us/careers/)   
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
@@ -237,8 +236,7 @@
 1.   [Visa](https://www.visa.co.in/careers.html)
 1.   [Vmware](https://careers.vmware.com/main/)  
 
-# W  
-1.   [Walmart](https://careers.walmart.com/technology)  
+# W   
 1.   [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
 1.   [Whatfix](https://whatfix.com/careers/)
       
