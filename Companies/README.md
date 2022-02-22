@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      183          |
+ |      163          |
 
 </div>
 
@@ -27,7 +27,6 @@
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
 1. [Arista Networks](https://www.arista.com/en/careers)  
-1. [Atlan](https://atlan.com/careers/)
 1. [Atlassian](https://www.atlassian.com/company/careers)  
 1. [Avaya](https://careers.avaya.com/)  
  
@@ -38,14 +37,11 @@
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
-1.  [BlueJeans](https://www.bluejeans.com/careers)
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
 1.  [Bottemline Technologies](https://www.bottomline.com/apac/about/careers) 
 1.  [Browser stack](https://www.browserstack.com/careers)  
 
- ## C  
-1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
-1.   [CarDekho](https://careers.cardekho.com/)
+ ## C   
 1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
 1.   [Cerner](https://careers.cerner.com/)
@@ -60,7 +56,6 @@
 1.   [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
 1.   [Cred](https://careers.cred.club/)  
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
-1.   [cure.fit](https://www.cult.fit/careers)
 
 ## D  
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
@@ -70,7 +65,6 @@
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
-1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
 1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
@@ -78,8 +72,7 @@
 ## E   
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 
-## F  
-1.   [Facebook](https://www.facebook.com/careers/jobs/)  
+## F   
 1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
 1.   [Fiserv](https://www.careers.fiserv.com/)
@@ -90,9 +83,7 @@
 1.   [Fyle](https://www.fylehq.com/company/team/join)
 
 ## G  
-1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [Github](https://github.com/about/careers)
-1.   [Gupshup]
 1.   [GoDigit](https://www.godigit.com/)
 1.   [Gojek](https://career.gojek.com/)  
 1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
@@ -107,9 +98,7 @@
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
 1.   [HackerRank](https://www.hackerrank.com/careers/)
 1.   [Hashedin](https://hashedin.com/careers/)
-1.   [HERE](https://www.here.com/careers)
-1.   [Hotstar](https://tech.hotstar.com/)  
-1.   [HP](https://jobs.hp.com/)  
+1.   [HERE](https://www.here.com/careers) 
 
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)
@@ -151,8 +140,7 @@
 1.   [Microsoft](https://careers.microsoft.com/us/en)        
 1.   [MindTickle](https://www.mindtickle.com/careers/)
 1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
-1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
-1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)    
+1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)      
 1.   [Myntra](https://careers.myntra.com/)  
 
 ## N  
@@ -163,17 +151,12 @@
 1.   [Navi](https://www.navifinserv.com/life-at-chaitanya)  
 1.   [NCR Corporation](https://www.ncr.com/careers)  
 1.   [Netmeds](https://netmeds.darwinbox.in/ms/candidate/careers)
-1.   [Nike](https://jobs.nike.com/)
-1.   [Ninjacart](https://ninjacart.in/careers/)
-1.   [Nokia](https://www.nokia.com/about-us/careers/)  
+1.   [Ninjacart](https://ninjacart.in/careers/) 
 1.   [nurture.farm](https://nurture.farm/join-us/)  
 1.   [Nutanix](https://www.nutanix.com/company/careers)   
 1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
-1.   [Nykaa](https://www.nykaa.com/careers?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE&ef_id=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE:G:s&s_kwcid=AL!599!3!560340772706!!!g!!&utm_source=GooglePaid&utm_medium=search&utm_campaign=adwords_search_dsa_full_site)
 
-## O  
-1.   [Ola](https://www.olacabs.com/careers) 
-1.   [Olx](https://careers.olxgroup.com/) 
+## O   
 1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
 1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)
 1.   [Optum](https://www.optum.in/about/careers.html)
@@ -184,15 +167,11 @@
 1.   [PayU](https://payu.in/careers)
 1.   [PeopleStrong](https://www.peoplestrong.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
-1.   [Philips](https://www.careers.philips.com/professional/in/en)
 1.   [Phonepe](https://www.phonepe.com/careers/)  
 1.   [Postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
 1.   [Priceline](https://careers.priceline.com/search)  
 
-## Q  
-1.   [Qualcomm](https://www.qualcomm.com/company/careers) 
-1.   [Quora](https://www.quora.com/careers)  
 
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)    
@@ -213,19 +192,16 @@
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
 1.   [Stripe](https://stripe.com/in/jobs)  
 1.   [Swiggy](https://careers.swiggy.com/) 
-1.   [Scaler](https://www.scaler.com/careers/) 
 
 ## T  
 1.   [Target](https://corporate.target.com/careers)  
 1.   [Tekion corp](https://tekion.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
-1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
-1.   [Twilio](https://www.twilio.com/company/jobs)  
+1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)    
 1.   [Toothsi](https://www.linkedin.com/company/toothsi/jobs/)
 
 ## U  
-1.   [Uber](https://www.uber.com/us/en/careers/)  
-1.   [Udaan](https://careers.udaan.com/)       
+1.   [Uber](https://www.uber.com/us/en/careers/)         
 1.   [Unicommerce](https://unicommerce.com/careers/)    
 1.   [Upstox](https://jobs.lever.co/upstox)      
 1.   [Urban company](https://careers.urbancompany.com/)     
