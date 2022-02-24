@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      136          |
+ |      135          |
 
 </div>
 
@@ -45,7 +45,6 @@
 1.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [Cisco](https://jobs.cisco.com/)  
 1.   [Citrix](https://jobs.citrix.com/)  
-1.   [Cleartrip](https://careers.cleartrip.com/#!/) 
 1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
 1.   [CoinDCX](https://careers.coindcx.com/)  
 1.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
