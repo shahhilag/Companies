@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      163          |
+ |      150          |
 
 </div>
 
@@ -32,9 +32,7 @@
  
  ## B  
 1.  [Barclays](https://home.barclays/careers/)
-1.  [Bazaarvoice](https://www.bazaarvoice.com/company/careers/)
-1.  [BharatPe](https://bharatpe.com/career)  
-1.  [BigBasket](https://careers.bigbasket.com/)  
+1.  [BharatPe](https://bharatpe.com/career)    
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
@@ -44,7 +42,6 @@
  ## C   
 1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
-1.   [Cerner](https://careers.cerner.com/)
 1.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [Cisco](https://jobs.cisco.com/)  
 1.   [Citrix](https://jobs.citrix.com/)  
@@ -53,7 +50,6 @@
 1.   [CoinDCX](https://careers.coindcx.com/)  
 1.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 1.   [Commvault](https://careers.commvault.com/)
-1.   [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
 1.   [Cred](https://careers.cred.club/)  
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
 
@@ -64,9 +60,6 @@
 1.   [Deutsche Bank](https://careers.db.com/)  
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
-1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
-1.   [Druva](https://www.druva.com/about/careers/)  
-1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
 1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
 
 ## E   
@@ -77,20 +70,16 @@
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
 1.   [Fiserv](https://www.careers.fiserv.com/)
 1.   [Flipkart](https://www.flipkartcareers.com/)  
-1.   [Frappe Technologies](https://frappe.io/careers)
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 1.   [Fyle](https://www.fylehq.com/company/team/join)
 
 ## G  
 1.   [Github](https://github.com/about/careers)
-1.   [GoDigit](https://www.godigit.com/)
 1.   [Gojek](https://career.gojek.com/)  
 1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
 1.   [Google](https://careers.google.com/)
-1.   [Global Logic](https://www.globallogic.com/in/careers/)
 1.   [Grab](https://grab.careers/)   
-1.   [Groupon](https://www.grouponcareers.com/) 
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [Groww](https://groww.skillate.com/)  
 
@@ -103,10 +92,8 @@
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)
 1.   [IHS Markit](https://careers.ihsmarkit.com/)  
-1.   [Impact Analytics](https://www.impactanalytics.co/join-us/)
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
-1.   [India Mart](https://careers.indiamart.com/)
-1.   [Informatica](https://informatica.gr8people.com/jobs)    
+1.   [India Mart](https://careers.indiamart.com/)    
 1.   [Inmobi](https://www.inmobi.com/company/careers/)  
 1.   [Innovaccer](https://innovaccer.com/careers/)  
 1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
@@ -120,18 +107,11 @@
 1.   [Juspay](https://www.juspay.in/careers/)  
 1.   [Jumbotail](https://jumbotail.com/careers/)
 
-## K
-1.   [Keyvalue](https://keyvalue.systems/)
-1.   [Khatabook](https://khatabook.com/hiring)
-1.   [Khoros](https://khoros.com/about/careers)
-
 ## L   
 1.   [Lenskart](https://hiring.lenskart.com/)
 1.   [LinkedIn](https://careers.linkedin.com/) 
-1.   [Logicmonitor](https://www.logicmonitor.com/careers)
 
-## M  
-1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
+## M    
 1.   [MakeMyTrip](https://careers.makemytrip.com/)  
 1.   [Mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
 1.   [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
@@ -146,15 +126,12 @@
 ## N  
 1.   [Nagarro](https://www.nagarro.com/en/careers)  
 1.   [NASDAQ](https://www.nasdaq.com/about/careers)  
-1.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
 1.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
 1.   [Navi](https://www.navifinserv.com/life-at-chaitanya)  
 1.   [NCR Corporation](https://www.ncr.com/careers)  
 1.   [Netmeds](https://netmeds.darwinbox.in/ms/candidate/careers)
-1.   [Ninjacart](https://ninjacart.in/careers/) 
 1.   [nurture.farm](https://nurture.farm/join-us/)  
 1.   [Nutanix](https://www.nutanix.com/company/careers)   
-1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 ## O   
 1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
@@ -164,8 +141,7 @@
 ## P   
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
-1.   [PayU](https://payu.in/careers)
-1.   [PeopleStrong](https://www.peoplestrong.com/careers/)  
+1.   [PayU](https://payu.in/careers)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Phonepe](https://www.phonepe.com/careers/)  
 1.   [Postman](https://www.postman.com/company/careers/)  
@@ -175,7 +151,6 @@
 
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)    
-1.   [Rivigo](https://www.rivigo.com/careers/)
 
 ## S  
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
@@ -186,7 +161,6 @@
 1.   [ServiceNow](https://www.servicenow.com/careers.html)  
 1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [Shipsy](https://shipsy.io/career/)
-1.   [Shopee](https://careers.shopee.sg/)
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Siemens Healthineers](https://www.siemens-healthineers.com/en-in/careers) 
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
