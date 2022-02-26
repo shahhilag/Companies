@@ -1,5 +1,5 @@
 <h1 align="center">DSA</h1>
-<h3 align="center">A repository with important DSA questions, C++ OOPS and a list of companies to apply in</h3>
+<h3 align="center">A repository with important DSA questions, C++ OOPS and a list of companies to apply</h3>
 <br><br>
 <p align="center" style="margin-top:10px">
 <hr>
