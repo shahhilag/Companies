@@ -1,5 +1,3 @@
-<div align="center"><img src="./static/images/Logo1.png" style="height: 200px;"></div>
-
 <h1 align="center">DSA</h1>
 <h3 align="center">A repository with important DSA questions, C++ OOPS and a list of companies to apply in</h3>
 <br><br>
