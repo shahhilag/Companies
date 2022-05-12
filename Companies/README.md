@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      135          |
+ |      134          |
 
 </div>
 
@@ -98,8 +98,7 @@
 1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 1.   [Intuit](https://www.intuit.com/careers/)  
 
-## J   
-1.   [Jio](https://careers.jio.com/)  
+## J    
 1.   [JP Morgan](https://careers.jpmorgan.com/IN/en/home)  
 1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
 1.   [Jupiter.money](https://jobs.lever.co/jupiter)  
@@ -171,7 +170,6 @@
 1.   [Tekion corp](https://tekion.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
 1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)    
-1.   [Toothsi](https://www.linkedin.com/company/toothsi/jobs/)
 
 ## U  
 1.   [Uber](https://www.uber.com/us/en/careers/)         
