@@ -11,18 +11,18 @@
  
  |Total companies added|
  |:-------------------:|
- |      130          |
+ |      115          |
 
 </div>
 
  
  ## A  
-1. [Adobe](https://www.adobe.com/careers.html)(~20LPA)
+1. [Adobe](https://www.adobe.com/careers.html)
 1. [Acko](https://acko.hirexp.com/)   
 1. [Airtel x labs](https://careers.airtel.com/)  
 1. [Ajio](https://www.ajio.com/ajio-careers)    
 1. [Akamai](https://www.akamai.com/careers)       
-1. [Amazon](https://www.amazon.jobs/en/)(~29LPA)  
+1. [Amazon](https://www.amazon.jobs/en/)
 1. [American express](https://www.americanexpress.com/en-us/careers/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
@@ -49,7 +49,7 @@
 1.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 1.   [Commvault](https://careers.commvault.com/)
 1.   [Cred](https://careers.cred.club/)  
-1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)(14LPA)
+1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
 
 ## D  
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
@@ -66,7 +66,7 @@
 ## F   
 1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
-1.   [Fiserv](https://www.careers.fiserv.com/)(8.5 LPA)
+1.   [Fiserv](https://www.careers.fiserv.com/)
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [FreeCharge](https://careers.freecharge.in/)
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
@@ -74,7 +74,7 @@
 ## G  
 1.   [Github](https://github.com/about/careers)
 1.   [Gojek](https://career.gojek.com/)  
-1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)(30LPA)   
+1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)  
 1.   [Google](https://careers.google.com/)
 1.   [Grab](https://grab.careers/)     
 1.   [Groww](https://groww.skillate.com/)  
