@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      115          |
+ |      108          |
 
 </div>
 
@@ -31,8 +31,7 @@
 1. [Avaya](https://careers.avaya.com/)  
  
  ## B  
-1.  [Barclays](https://home.barclays/careers/)
-1.  [BharatPe](https://bharatpe.com/career)    
+1.  [Barclays](https://home.barclays/careers/)   
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
@@ -64,11 +63,9 @@
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 
 ## F   
-1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
 1.   [Fiserv](https://www.careers.fiserv.com/)
 1.   [Flipkart](https://www.flipkartcareers.com/)  
-1.   [FreeCharge](https://careers.freecharge.in/)
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 
 ## G  
@@ -81,7 +78,6 @@
 
 ## H  
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
-1.   [HERE](https://www.here.com/careers) 
 
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)
@@ -133,13 +129,11 @@
 1.   [Postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
 1.   [Priceline](https://careers.priceline.com/search)  
-1.   [Publicis Sapient](https://www.linkedin.com/company/publicissapient/jobs/)
 
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)    
 
 ## S  
-1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
 1.   [Sabre corporation](https://www.sabre.com/careers/)  
 1.   [Salesforce](https://www.salesforce.com/)  
 1.   [Samsung](https://www.samsung.com/in/about-us/careers/)
@@ -149,8 +143,7 @@
 1.   [Shipsy](https://shipsy.io/career/)
 1.   [Siemens Healthineers](https://www.siemens-healthineers.com/en-in/careers) 
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
-1.   [Stripe](https://stripe.com/in/jobs)  
-1.   [Slice](https://www.linkedin.com/company/sliceit/jobs/)  
+1.   [Stripe](https://stripe.com/in/jobs)    
 1.   [Swiggy](https://careers.swiggy.com/) 
 
 ## T  
