@@ -91,7 +91,7 @@
 1.   [JP Morgan](https://careers.jpmorgan.com/IN/en/home)  
 1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
 1.   [Jupiter.money](https://jobs.lever.co/jupiter)  
-1.   [Juspay](https://www.juspay.in/careers/)  
+1.   [Justpay](https://www.juspay.in/careers/)  
 1.   [Jumbotail](https://jumbotail.com/careers/)
 
 ## L   
