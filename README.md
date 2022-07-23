@@ -11,7 +11,7 @@
  
  |Total companies added|
  |:-------------------:|
- |      108          |
+ |      109          |
 
 </div>
 
@@ -171,3 +171,4 @@
 ## Z  
 1.   [Zerodha](https://careers.zerodha.com/)  
 1.   [Zeta](https://careers.zeta.tech/work-with-us/)
+1.   [ZS](https://www.zs.com/careers)
